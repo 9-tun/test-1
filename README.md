@@ -1,3 +1,5 @@
+![프로필 이미지](channels4_profile.jpg)
+
 # READ ME 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
